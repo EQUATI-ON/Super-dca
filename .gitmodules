@@ -1,0 +1,24 @@
+[submodule "super-dca-cashback/lib/forge-std"]
+	path = super-dca-cashback/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
+[submodule "super-dca-cashback/lib/openzeppelin-contracts"]
+	path = super-dca-cashback/lib/openzeppelin-contracts
+	url = https://github.com/OpenZeppelin/openzeppelin-contracts
+[submodule "super-dca-gauge/lib/forge-std"]
+	path = super-dca-gauge/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
+[submodule "super-dca-gauge/lib/openzeppelin-contracts-upgradeable"]
+	path = super-dca-gauge/lib/openzeppelin-contracts-upgradeable
+	url = https://github.com/OpenZeppelin/openzeppelin-contracts-upgradeable
+[submodule "super-dca-gauge/lib/openzeppelin-foundry-upgrades"]
+	path = super-dca-gauge/lib/openzeppelin-foundry-upgrades
+	url = https://github.com/OpenZeppelin/openzeppelin-foundry-upgrades
+[submodule "super-dca-gauge/lib/v4-core"]
+	path = super-dca-gauge/lib/v4-core
+	url = https://github.com/uniswap/v4-core
+[submodule "super-dca-gauge/lib/v4-periphery"]
+	path = super-dca-gauge/lib/v4-periphery
+	url = https://github.com/uniswap/v4-periphery
+[submodule "super-dca-gauge/lib/openzeppelin-contracts"]
+	path = super-dca-gauge/lib/openzeppelin-contracts
+	url = https://github.com/OpenZeppelin/openzeppelin-contracts
